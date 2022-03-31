@@ -2,7 +2,17 @@
   height: 100vh;
 }
 
-
+.c-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  font-size: 25px;
+  justify-content: center;
+  text-align: center;
+  color: #cbf4fa;
+  padding: 10px;
+  cursor: pointer;
+}
 
 .c-wrapper {
   padding: 50px;
@@ -75,6 +85,9 @@ button {
 
 @media screen and (max-width: 480px) {
 
+  /* .c {
+    height: 100vh;
+  } */
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
