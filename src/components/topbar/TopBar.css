@@ -57,11 +57,13 @@ a {
     right: 0;
     height: 93vh;
     width: 100vw;
+    font-size: 30px;
     background: #4b2d37;
     flex-direction: column;
     transform: translateX(100%);
     transition: 0.5s ease-in;
     opacity: 0.99;
+    padding-top: 30px;
   }
 }
 /* Active Class */

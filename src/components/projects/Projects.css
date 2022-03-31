@@ -18,7 +18,8 @@
   
   .pl-desc {
     margin: 20px 0px;
-    /* color: #444; */
+    font-weight: 300;
+    font-size: 25px;
   }
   
   .pl-list {
@@ -36,9 +37,15 @@
     .pl-texts {
       width: 100%;
     }
+
+    .pl-title {
+      font-size: 40px;
+      font-weight: 400;
+    }
   
     .pl-desc {
-      display: none;
+      font-size: 20px;
+      font-weight: 300;
     }
   }
   

@@ -13,13 +13,13 @@ const Intro = () => {
               <p className="i-title-item">Web Developer, UI/UX Developer & Mobile Developer</p>
             </div>
           </div>
-          <p className="i-description">
-              I develop services for custmers in all sizes, specializing in creating stylish, modern websites.
+          <p className="i-desc">
+
           </p>
         </div>
       </div>
       <div className="i-right">
-          {/* <img src="https://purepng.com/public/uploads/large/purepng.com-man-face-herofaceshumansfrontalhuman-identityman-1421526885661w7dlt.png" alt="" className="i-img" /> */}
+          <img src="img/cover.png" alt="" className="i-img" />
       </div>
     </div>
   );

@@ -1,0 +1,39 @@
+.f {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 20vh;
+  background-color: #444;
+}
+.f-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  font-size: 25px;
+  justify-content: center;
+  text-align: center;
+  color: #cbf4fa;
+  padding: 10px;
+  cursor: pointer;
+}
+.f-info-item {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.f-text {
+  font-size: 15px;
+  color: #cbf4fa;
+}
+
+@media screen and (max-width: 480px) {
+  .f-text {
+    padding-top: 2vh;
+    font-size: 10px;
+  }
+  .f {
+    height: 10vh;
+  }
+}

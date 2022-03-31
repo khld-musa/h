@@ -6,12 +6,9 @@ const Projects = () => {
   return (
     <div id="projects" className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Lorem ipsum dolor, elit.</h1>
+        <h1 className="pl-title">Projects.</h1>
         <p className="pl-desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum at
-          eveniet dolorem provident, repellendus sint! Accusantium est nulla,
-          tempore doloremque non consequatur ut itaque autem nam facilis ipsam
-          dolor ullam?
+        Take a look at some of the work I've done recently !
         </p>
       </div>
       <div className="pl-list">
