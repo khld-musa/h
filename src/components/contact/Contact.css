@@ -36,13 +36,6 @@
   width: 70%;
 }
 
-.c-icon {
-  width: 30px;
-  height: 30px;
-  margin-right: 20px;
-  text-align: center;
-  color: #aa4b6b;
-}
 
 .c-desc {
   font-weight: 200;
@@ -82,9 +75,6 @@ button {
 
 @media screen and (max-width: 480px) {
 
-  .c {
-    height: 70vh;
-  }
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;

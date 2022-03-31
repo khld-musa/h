@@ -71,6 +71,7 @@
 @media screen and (max-width: 480px) {
   .i {
     flex-direction: column;
+    height: 50vh;
   }
 
   .i-left-wrapper {
@@ -87,10 +88,6 @@
   }
   .i-right{
     display: none;
-  }
-  
-  .i{
-    height: 30vh;
   }
   
 }
