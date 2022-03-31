@@ -30,10 +30,12 @@
 
 @media screen and (max-width: 480px) {
   .f-text {
-    padding-top: 2vh;
     font-size: 10px;
   }
   .f {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 10vh;
   }
 }

@@ -72,6 +72,7 @@
   .i {
     flex-direction: column;
     height: 50vh;
+    margin-bottom: 50px;
   }
 
   .i-left-wrapper {
@@ -89,5 +90,24 @@
   .i-right{
     display: none;
   }
+  .i-name {
+    font-size: 30px;
+  }
+
+  .i-title-item {
+
+    font-size: 15px;}
+
+    .i-intro{
+    
+      font-size: 20px;}
   
+}
+
+  
+@media screen and (max-width: 1300px) {
+  .i {
+    width: 100%;
+    height: 50vh;
+  }
 }
