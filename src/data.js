@@ -1,8 +1,8 @@
 export const projects = [
   {
     id: 1,
-    img: "img/chat.png",
-    link: "https://comforting-bubblegum-cadd31.netlify.app/",
+    img: "img/shopping.png",
+    link: "https://soqnasudan.herokuapp.com/",
   },
   {
     id: 2,

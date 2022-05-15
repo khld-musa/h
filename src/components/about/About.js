@@ -15,10 +15,10 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-        I develop services for custmers in all sizes, specializing in creating stylish, modern websites.
+        I develop services for customers in all sizes, specializing in creating stylish, modern websites.
         </p>
         <p className="a-desc">
-        React JS developer with more than 2 years of experience with MEAN stack development. Possess in-depth knowledge of UI designs using complex concepts in enhancing users’ experience and website performance.
+        React JS developer with more than 2 years of experience with MERN stack development. Possess in-depth knowledge of UI designs using complex concepts in enhancing users’ experience and website performance.
         </p>
         <div className="a-award">
           <div className="a-award-texts">
