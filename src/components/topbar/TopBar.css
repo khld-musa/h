@@ -49,7 +49,7 @@ a {
   .nav__toggler {
     display: block;
     cursor: pointer;
-    padding-right: 1rem;
+    /* padding-right: 5%; */
   }
   .nav__menu {
     position: fixed;

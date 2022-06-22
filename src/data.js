@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     img: "img/shopping.png",
-    link: "https://soqnasudan.herokuapp.com/",
+    link: "https://soqna.herokuapp.com/",
   },
   {
     id: 2,
